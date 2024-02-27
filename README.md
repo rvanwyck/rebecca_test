@@ -3,4 +3,4 @@ ADC Git Hub Exercise
 
 ## Purpose
   - Create a remote respoitory on GitHub
-  -   - Practice git workflow
+  - Practice git workflow
